@@ -3,6 +3,7 @@
     "cypress": "^9.5.3"
   },
   "dependencies": {
-    "atom": "^1.4.1"
+    "atom": "^1.4.1",
+    "npm-run-path": "^5.1.0"
   }
 }
